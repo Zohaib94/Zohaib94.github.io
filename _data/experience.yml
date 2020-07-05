@@ -1,0 +1,17 @@
+- company: Jumpseller
+  url: https://www.jumpseller.com/
+  time: January 2020 - Present
+  position: Software Engineer
+  description: Full Stack Developer working on integrations using Ruby on Rails, Sinatra and React.JS.
+
+- company: Square63
+  url: https://www.square63.com/
+  time: June 2016 - August 2019
+  position: Software Engineer
+  description: Full Stack Developer working on Ruby on Rails and React.JS.
+
+- company: Square63
+  url: https://www.square63.com/
+  time: June 2015 - August 2015
+  position: Software Engineering Intern
+  description: Software Engineering Intern working on Ruby on Rails and writing scrapers using Ruby.

@@ -1,0 +1,39 @@
+languages:
+  - item: Ruby
+  - item: JavaScript (ES6)
+  - item: CoffeeScript
+  - item: SQL
+  - item: MySQL
+  - item: PostGRESQL
+  - item: CSS/Sass
+  - item: HTML
+
+frameworks:
+  - item: Ruby on Rails
+  - item: React.JS (Hooks & Redux)
+  - item: Bootstrap
+  - item: Node (Express)
+  - item: Sinatra
+
+tools:
+  - item: RSpec
+  - item: Bash
+  - item: Git
+  - item: GitHub
+  - item: GitLab
+  - item: Bitbucket
+  - item: Chrome DevTools
+  - item: Postman
+  - item: Trello
+  - item: Asana
+  - item: JIRA
+  - item: Slack
+  - item: Skype
+  - item: Zoom
+
+skills_at_ut:
+  - item: Java (Spring)
+  - item: Python (Pandas, Numpy, SciKit)
+  - item: Elixir (Phoenix)
+  - item: F# (Functional Programming)
+  - item: Basic Data Science Algorithms
